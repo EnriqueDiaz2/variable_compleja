@@ -11,5 +11,8 @@ Instalar dependencia con este comando: npm install react-plotly.js plotly.js
 
 version de Python
 
+INSTRUCCIONES:
+abrir visual studio o otra ide copea, pega y ejecuta el codigo y mira la interfaz
+
 IMPORTANTE:
 Instalar libreria(si le se la pide):pip install numpy matplotlib
